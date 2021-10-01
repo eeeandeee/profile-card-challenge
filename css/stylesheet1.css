@@ -5,17 +5,18 @@ body{
 
 
 .top-img{
-    margin: -300px 0px -980px -300px;
-    float: left;
-    position: relative;
+    margin: 300px 100px 180px 900px;
+    float: right;
+    position: fixed;
 } 
 
 .bot-img{
-    float: right;
+
+    float: left;
+    padding-top: auto;
+    margin-top: -600px;
     position: relative;
-    margin-right: 0px;
-    margin-left: 8000px;
-    margin-bottom: -800px;
+
 }
 
 
